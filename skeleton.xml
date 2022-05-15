@@ -1,0 +1,21 @@
+<root>
+    <recipe>
+        <name>Name</name>
+        <serves>123456789</serves>
+        <ingredients>
+            <ingredient>
+                <name>A</name>
+                <amount>1</amount>
+            </ingredient>
+            <ingredient>
+                <name>B</name>
+                <amount>2</amount>
+            </ingredient>
+            <ingredient>
+                <name>C</name>
+                <amount>3</amount>
+            </ingredient>
+        </ingredients>
+        <method>Do this; Then that; Finally that...</method>
+    </recipe>
+</root>

@@ -1,0 +1,14 @@
+WBS #,Name / Title,Type,Start Date,End Date,Estimated Hours
+1,IT,project,14/05/2022,16/05/2022,0
+1.1,Creation of the project,group,14/05/2022,16/05/2022,9.05
+1.1.1,Read the instructions,task,14/05/2022,14/05/2022,0.05
+1.1.2,Create the program,task,14/05/2022,14/05/2022,2
+1.1.3,Create a backend ,task,16/05/2022,16/05/2022,2
+1.1.4,Create an intermediary,task,16/05/2022,16/05/2022,3
+1.1.5,Create a front end,task,16/05/2022,16/05/2022,2
+1.1.6,Program finished,milestone,16/05/2022,16/05/2022,0
+1.2,Refining + Bug Fixes,group,15/05/2022,16/05/2022,8
+1.2.1,Feature test,task,15/05/2022,16/05/2022,3
+1.2.2,Bug testing,task,15/05/2022,16/05/2022,4
+1.2.3,Adding colors + Prettifying code + Code comments,task,15/05/2022,16/05/2022,1
+1.2.4,Done,milestone,16/05/2022,16/05/2022,0

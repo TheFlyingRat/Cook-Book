@@ -1,0 +1,37 @@
+<root>
+	<recipe>
+		<name>Spaghetti Bolognese</name>
+		<serves>3</serves>
+		<ingredients>
+			<ingredient>
+				<name>Spaghetti</name>
+				<amount>150g</amount>
+			</ingredient>
+			<ingredient>
+				<name>Mince meat</name>
+				<amount>300g</amount>
+			</ingredient>
+			<ingredient>
+				<name>Tomato paste</name>
+				<amount>500g</amount>
+			</ingredient>
+			<ingredient>
+				<name>Basil</name>
+				<amount>5 leaves</amount>
+			</ingredient>
+			<ingredient>
+				<name>Vegetables</name>
+				<amount>120g</amount>
+			</ingredient>
+		</ingredients>
+		<method>Boil the spagetti in water.
+  Cook some minced meat in a fry pan.
+  Mix the minced meat around.
+  Add the veggies and tomato paste into the fry pan.
+  Give it a mix.
+  Follow the pasta's instructions and after it is cooked, strain.
+  Add the pasta to a serving bowl, put a scoop of the bolognese sauce on top of the pasta.
+  Add a few basil leaves on top, optional cheese.
+  Done :)</method>
+	</recipe>
+</root>
